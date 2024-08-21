@@ -30,7 +30,7 @@
 
 ### 
 
-| Project Backlog: <ul align="left"><li>Home security app</li><li>Three.js game</li><li>Workout/Diet/Recipe app</li><li>Build a chrome extension</li><li>Portfolio website</li></ul> | <img src="https://github-readme-stats.vercel.app/api/top-langs?username=glaurent96&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  /> |
+| Project Backlog: <ul align="left"><li>Home security app</li><li>Three.js game</li><li>Workout/Diet/Recipe app</li><li>Build a chrome extension</li><li>Portfolio website</li></ul> | <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gillybyte&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  /> |
 |---|---|
 | <img height="200" src="https://user-images.githubusercontent.com/48784001/130169241-21e51597-9693-47ff-a304-de1812851cd7.gif"  /> | ![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=121417300) |
 
